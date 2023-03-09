@@ -23,6 +23,7 @@ Markdown allows you to easily format your text using a few simple symbols:
 
 - To make text *italic*, surround it with asterisks or underscores: `*italic*` or `_italic_`
 - To make text **bold**, surround it with double asterisks or double underscores: `**bold**` or `__bold__`
+- __test__
 - To create a ~~strikethrough~~ effect, surround the text with two tildes: `~~strikethrough~~`
 - To create a `code block`, surround the text with backticks: `` `code block` ``
 
