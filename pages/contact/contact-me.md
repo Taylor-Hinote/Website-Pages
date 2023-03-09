@@ -1,3 +1,1 @@
-# Contact Me
-
 If you have any question or comments, please feel free to contact me using the form below. I will get back to you as soon as possible.

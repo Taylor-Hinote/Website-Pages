@@ -1,4 +1,3 @@
-# About Me
 
 I am a software developer and a sailor living in sunny Florida with my two cats, Shimmer and George. I have been developing since I was 15 and started sailing when I was 10.
 
