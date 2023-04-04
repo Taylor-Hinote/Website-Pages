@@ -11,7 +11,7 @@ Over the years, I have gained experience in various areas, including software de
 
 ##
 
-Some of my notable projects include developing a custom CMS for a local condo association, rebuilding the website for a local marble gallery called [___Fine's Gallery___](https://www.finesgallery.com), and currently working on a PHP-based framework for creating custom CMS.
+Some of my notable projects include developing a custom CMS for a local condo association, rebuilding the website for a local marble gallery called [___Fine's Gallery___](https://www.finesgallery.com).
 
 ##
 
