@@ -1,6 +1,6 @@
-# A Simple and Versatile Way to Format Text
+#### A Simple and Versatile Way to Format Text
 
-## Introduction
+# Introduction
 
 If you're looking for a simple and versatile way to format text for your blog posts, articles, or web pages, Markdown is a great choice. Markdown is a lightweight markup language that allows you to easily create headings, lists, bold and italic text, links, and much more. 
 
