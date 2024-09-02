@@ -5,4 +5,4 @@ If you want to see the website, go to [https://www.taylorhinote.com](https://www
 
 ## Contributing
 
-If you find any errors, please let me know by creating an issue or pull request. Thanks! :)
+If you find any errors, please let me know by creating an issue or pull request. Thanks! :) <3
